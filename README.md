@@ -1,1 +1,1 @@
-# python_rest
+# python django rest web application
